@@ -1,0 +1,7 @@
+本文件路径下打开git bash
+1. 往仓库里提交文件
+git add chapterx/
+2. 提交
+git commit -m "chapterx"
+3. 同步更新到github
+git push origin main
